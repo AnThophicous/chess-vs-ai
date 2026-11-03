@@ -1,0 +1,11 @@
+node_modules/
+# runtime data (games, chat, events, history, watcher state)
+game.json
+chat.json
+events.json
+history.json
+*.json.tmp
+.watch.pid
+.watch_state.json
+.mcp_cursor.json
+*.log
